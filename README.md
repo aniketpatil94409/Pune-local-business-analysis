@@ -81,19 +81,19 @@ Key Insights:
 - Some areas suffer from longer delivery times.
 - ### 📊 Power BI Dashboard
 
-#### Dashboard 1 – Top Business Areas
+#### Dashboard 1 – Overview
 ![Power BI 1](https://github.com/aniketpatil94409/Pune-local-business-analysis/raw/main/powerbi_1.jpg)
 
-#### Dashboard 2 – Category-wise Ratings
+#### Dashboard 2 – Area Insights
 ![Power BI 2](https://github.com/aniketpatil94409/Pune-local-business-analysis/raw/main/powerbi_2.jpg)
 
-#### Dashboard 3 – Sales vs Ratings
+#### Dashboard 3 – Category Insights
 ![Power BI 3](https://github.com/aniketpatil94409/Pune-local-business-analysis/raw/main/powerbi_3.jpg)
 
-#### Dashboard 4 – Delivery Time by Area
+#### Dashboard 4 – Premium and Online Readiness
 ![Power BI 4](https://github.com/aniketpatil94409/Pune-local-business-analysis/raw/main/powerbi_4.jpg)
 
-#### Dashboard 5 – Online Orders Impact
+#### Dashboard 5 – Top Rated Businesses
 ![Power BI 5](https://github.com/aniketpatil94409/Pune-local-business-analysis/raw/main/powerbi_5.jpg)
 
 
